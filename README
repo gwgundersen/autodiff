@@ -1,1 +1,4 @@
-autodiff: Proof of concept for an automatic differentiation library. 
+autodiff
+~~~~~~~~
+
+Proof-of-concept for an automatic differentiation library. 
